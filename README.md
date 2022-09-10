@@ -1,1 +1,1 @@
-# Introduction-to-EDA-Techniquies-
+# Introduction-to-EDA-Techniques-
